@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # Constants
-TEAM_ID = "ROBOT"  # 5-character Team ID
+TEAM_ID = "NTCH"  # 5-character Team ID
 MESSAGE_TYPE = "GATE"  # Additional label before Message ID
 GROUND_STATION_IP = "192.168.1.100"  # Replace with ground station IP
 PORT = 12345  # Define a port for communication
